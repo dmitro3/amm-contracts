@@ -1,0 +1,13 @@
+{
+  "name": "fcxv2-amm-contract",
+  "version": "1.0.0",
+  "description": "fcx v2 smart contract",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "workspaces": [
+    "contracts/*"
+  ]
+}

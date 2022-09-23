@@ -50,5 +50,4 @@ task('private-pool:new', 'new private pool')
     });
     console.log({ POOL });
     console.log(`Txn is ${txn.transactionHash}`);
-    // console.log(txn.events);
   });
